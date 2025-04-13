@@ -4,6 +4,9 @@ This is the codebase for our paper ["Training Large Language Models to Reason Ef
 The codebase has been tested on GH200 GPUs with Python 3.10.15 and CUDA 12.6. 
 Other environments might require different tweaks in installation of Flash Attention or vLLM. 
 
+## Trained Checkpoints
+
+Trained checkpoints can be found at this ["link"](https://huggingface.co/collections/Zanette-Labs/efficient-reasoning-67f75497d50c1316c04f9332)
 
 ## Installation
 
