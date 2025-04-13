@@ -6,7 +6,7 @@ Other environments might require different tweaks in installation of Flash Atten
 
 ## Trained Checkpoints
 
-Trained checkpoints can be found at this ["link"](https://huggingface.co/collections/Zanette-Labs/efficient-reasoning-67f75497d50c1316c04f9332)
+Trained checkpoints can be found at this [link](https://huggingface.co/collections/Zanette-Labs/efficient-reasoning-67f75497d50c1316c04f9332)
 
 ## Installation
 
